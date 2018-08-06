@@ -15,3 +15,4 @@
 		如：Tom
 参数五  你的ImageNet密钥
         前置条件是你注册过ImageNet并且获得下载数据库的允许
+工作原理请访问：https://blog.csdn.net/qq_24864285/article/details/79137514
